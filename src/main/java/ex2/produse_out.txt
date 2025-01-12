@@ -1,0 +1,2 @@
+denumire: zahar; pret: 3.4; cantitate: 4; data_expirarii: 2025-02-25
+denumire: unt; pret: 3.4; cantitate: 7; data_expirarii: 2025-11-01
